@@ -9327,7 +9327,7 @@ LINK M_Picnicbay_Mainland_Inlet CLOSED IF NODE Picnicbay_SR ABOVE 5.5
  CHECKFREQ          	2
  MAXCHECK           	10
  DAMPLIMIT          	0
- Unbalanced         	Stop
+ Unbalanced         	CONTINUE 10
  Pattern            	1
  Demand Multiplier  	1
  Emitter Exponent   	0.5
