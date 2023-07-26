@@ -2123,7 +2123,7 @@ Q_VAR_PROJECTION=EPSG:20255
  P_00048         	J_00257         	J_00162         	12.6955     	100         	0.08        	0           	OPEN  	;AC_19870101
  P_00049         	J_00076         	J_00089         	248.311     	150         	0.1         	0           	OPEN  	;AC_19700101
  P_00050         	J_00264         	J_00266         	933.869     	375         	0.3         	0           	OPEN  	;DIL_19920101
- M_Cocklebay_Outlet	Cocklebay       	J_00267         	12.7562     	375         	0.3         	0           	OPEN  	;
+ M_Cocklebay_Outlet	Cocklebay       	J_00267         	12.7562     	375         	0.3         	0           	OPEN  	;DIL_19900101
  P_00052         	J_00268         	J_00258         	12.6956     	100         	0.08        	0           	OPEN  	;AC_19870101
  P_00053         	J_00269         	J_00270         	179.321     	375         	0.01        	0           	OPEN  	;PE_20080101
  P_00054         	J_00272         	J_00269         	225.276     	375         	0.01        	0           	OPEN  	;PE_20080101
@@ -2149,7 +2149,7 @@ Q_VAR_PROJECTION=EPSG:20255
  P_00074         	Nellybay        	J_00328         	10.4466     	200         	0.1         	0           	OPEN  	;AC_19700101
  P_00075         	J_00106         	H_25774995      	455.066     	100         	0.1         	0           	OPEN  	;AC_19700101
  P_00076         	J_00330         	J_00161         	168.183     	100         	0.08        	0           	OPEN  	;AC_19870101
- M_Nellybay_Outlet	Nellybay        	J_00331         	11.3057     	225         	0.1         	0           	OPEN  	;
+ M_Nellybay_Outlet	Nellybay        	J_00331         	11.3057     	225         	0.1         	0           	OPEN  	;AC_19700101
  P_00079         	J_00075         	J_00076         	12.697      	150         	0.1         	0           	OPEN  	;AC_19700101
  P_00080         	J_00299         	J_00347         	749.732     	200         	0.1         	0           	OPEN  	;AC_19700101
  P_00081         	J_00350         	J_00351         	803.595     	32          	0.09        	0           	OPEN  	;PVC_19800101
@@ -2167,7 +2167,7 @@ Q_VAR_PROJECTION=EPSG:20255
  P_00094         	J_00372         	J_00063         	227.512     	100         	0.03        	0           	OPEN  	;PVC_20080101
  P_00095         	J_00124         	J_00163         	211.979     	100         	0.03        	0           	OPEN  	;PVC_20080101
  P_00096         	J_00378         	J_00379         	151.87      	200         	0.05        	0           	OPEN  	;CI_20010101
- M_Horseshoebay_Inlet	J_01443         	J_01441         	153.357     	200         	0.05        	0           	OPEN  	;
+ M_Horseshoebay_Inlet	J_01443         	J_01441         	153.357     	200         	0.05        	0           	OPEN  	;CI_20010101
  P_00098         	J_00342         	J_00383         	191.675     	100         	0.03        	0           	OPEN  	;PVC_20080101
  P_00099         	J_00384         	J_00037         	155.984     	100         	0.03        	0           	OPEN  	;PVC_20080101
  P_00100         	J_00385         	J_00386         	279.747     	500         	0.01        	0           	OPEN  	;PE_20080101
@@ -3564,7 +3564,7 @@ Q_VAR_PROJECTION=EPSG:20255
  P_01491         	J_01290         	J_01295         	280.315     	100         	0.03        	0           	OPEN  	;PVC_20010101
  P_01492         	J_01294         	J_00190         	550.707     	100         	0.03        	0           	OPEN  	;PVC_20010101
  P_01493         	J_01292         	J_01297         	741.24      	200         	0.15        	0           	OPEN  	;DIL_20070101
- M_Arcadia_DMA   	J_01296         	J_00451         	0.28        	200         	0.15        	0           	OPEN  	;
+ M_Arcadia_DMA   	J_01296         	J_00451         	0.28        	200         	0.15        	0           	OPEN  	;DIL_20070101
  P_01495         	J_00301         	J_01299         	143.178     	100         	0.1         	0           	OPEN  	;AC_19700101
  P_01496         	J_01298         	H_25776499      	376.717     	100         	0.1         	0           	OPEN  	;AC_19700101
  P_01497         	J_00376         	J_01301         	861.403     	375         	0.15        	0           	OPEN  	;DIL_20120101
@@ -3696,31 +3696,31 @@ Q_VAR_PROJECTION=EPSG:20255
  P_01623         	J_01432         	J_00049         	216.151     	375         	0.3         	0           	OPEN  	;DIL_19900101
  P_01624         	J_00416         	J_00062         	707.669     	100         	0.03        	0           	OPEN  	;PVC_20050101
  P_01625         	J_00062         	H_25767133      	11.6677     	100         	0.03        	0           	OPEN  	;PVC_20050101
- M_Horseshoebay_Outlet	Horseshoebay    	J_00324         	14.56       	200         	0.05        	0           	OPEN  	;
- M_Cocklebay_Inlet	J_01438         	J_00323         	863.623     	225         	0.1         	0           	OPEN  	;
- M_Nellybay_Inlet	J_01452         	J_01439         	14.01       	375         	0.15        	0           	OPEN  	;
- P_01629         	J_01430         	J_01431         	91.606      	100         	0.03        	0           	OPEN  	;
- P_01631         	J_01434         	J_01435         	1           	100         	0.03        	0           	OPEN  	;
- P_01632         	J_01445         	J_00264         	10          	100         	0.12        	0           	Open  	;
- P_01633         	J_01448         	J_00369         	4.20        	200         	0.15        	0           	Open  	;
- P_01634         	J_00366         	J_01446         	15.74       	375         	0.15        	0           	Open  	;
- P_01635         	US_Arcadia_PRV  	J_01451         	0.46        	200         	0.15        	0           	Open  	;
- P_01636         	J_01450         	DS_Arcadia_PRV  	0.48        	200         	0.15        	0           	Open  	;
- P_01637         	J_01459         	J_01454         	1912.05     	200         	0.15        	0           	Open  	;
- P_01638         	J_00379         	J_01453         	0.60        	200         	0.15        	0           	Open  	;
- P_01639         	US_Mandalay_TWP 	J_01456         	1.28        	225         	2           	0           	Open  	;
- P_01640         	J_01457         	DS_Mandalay_TWP 	1.28        	225         	2           	0           	Open  	;
- P_01641         	J_01458         	H_25768203      	17.06       	200         	0.15        	0           	Open  	;
- P_01642         	Mainland_Transfer	J_01461         	155.37      	375         	0.01        	0           	Open  	;
- M_Picnicbay_Mainland_Inlet	J_01460         	Picnicbay_SR    	14.97       	375         	0.01        	0           	Open  	;
- P_01644         	J_01464         	DS_Picnic_TWP   	02.07       	375         	0.01        	0           	Open  	;
- P_01645         	DS_Picnic_TWP   	J_01462         	2.14        	375         	0.01        	0           	Open  	;
- P_01646         	J_01462         	J_00409         	4.73        	375         	0.01        	0           	Open  	;
- P_01647         	J_01467         	US_Picnic_TWP   	02.07       	375         	0.01        	0           	Open  	;
- P_01648         	US_Picnic_TWP   	J_01465         	2.17        	375         	0.01        	0           	Open  	;
- M_Picnicbay_Outlet	J_01468         	US_Picnic_TWP   	01.03       	375         	0.01        	0           	Open  	;
- P_01650         	Picnic_Backup_Well	J_01471         	22.73       	375         	0.01        	0           	Open  	;
- M_Picnicbay_Well_Inlet	J_01470         	Picnicbay_SR    	7.68        	375         	0.01        	0           	Open  	;
+ M_Horseshoebay_Outlet	Horseshoebay    	J_00324         	14.56       	200         	0.05        	0           	OPEN  	;CI_20020101
+ M_Cocklebay_Inlet	J_01438         	J_00323         	863.623     	225         	0.1         	0           	OPEN  	;AC_19700101
+ M_Nellybay_Inlet	J_01452         	J_01439         	14.01       	375         	0.15        	0           	OPEN  	;DIL_20120101
+ P_01629         	J_01430         	J_01431         	91.606      	100         	0.03        	0           	OPEN  	;PVC_20050101
+ P_01631         	J_01434         	J_01435         	1           	100         	0.03        	0           	OPEN  	;PVC_20040101
+ P_01632         	J_01445         	J_00264         	10          	100         	0.12        	0           	Open  	;PVC_19700101
+ P_01633         	J_01448         	J_00369         	4.20        	200         	0.15        	0           	Open  	;AC_19700101
+ P_01634         	J_00366         	J_01446         	15.74       	375         	0.15        	0           	Open  	;DIL_20120101
+ P_01635         	US_Arcadia_PRV  	J_01451         	0.46        	200         	0.15        	0           	Open  	;DIL_20070101
+ P_01636         	J_01450         	DS_Arcadia_PRV  	0.48        	200         	0.15        	0           	Open  	;DIL_20070101
+ P_01637         	J_01459         	J_01454         	1912.05     	200         	0.15        	0           	Open  	;CI_20010101
+ P_01638         	J_00379         	J_01453         	0.60        	200         	0.15        	0           	Open  	;CI_20010101
+ P_01639         	US_Mandalay_TWP 	J_01456         	1.28        	225         	2           	0           	Open  	;CI_19770101
+ P_01640         	J_01457         	DS_Mandalay_TWP 	1.28        	225         	2           	0           	Open  	;CI_19770101
+ P_01641         	J_01458         	H_25768203      	17.06       	200         	0.15        	0           	Open  	;CI_20010101
+ P_01642         	Mainland_Transfer	J_01461         	155.37      	375         	0.01        	0           	Open  	;PE_20130101
+ M_Picnicbay_Mainland_Inlet	J_01460         	Picnicbay_SR    	14.97       	375         	0.01        	0           	Open  	;PE_20130101
+ P_01644         	J_01464         	DS_Picnic_TWP   	02.07       	375         	0.01        	0           	Open  	;PE_20130101
+ P_01645         	DS_Picnic_TWP   	J_01462         	2.14        	375         	0.01        	0           	Open  	;PE_20130101
+ P_01646         	J_01462         	J_00409         	4.73        	375         	0.01        	0           	Open  	;PE_20130101
+ P_01647         	J_01467         	US_Picnic_TWP   	02.07       	375         	0.01        	0           	Open  	;PE_20130101
+ P_01648         	US_Picnic_TWP   	J_01465         	2.17        	375         	0.01        	0           	Open  	;PE_20130101
+ M_Picnicbay_Outlet	J_01468         	US_Picnic_TWP   	01.03       	375         	0.01        	0           	Open  	;PE_20130101
+ P_01650         	Picnic_Backup_Well	J_01471         	22.73       	375         	0.01        	0           	Open  	;PE_20130101
+ M_Picnicbay_Well_Inlet	J_01470         	Picnicbay_SR    	7.68        	375         	0.01        	0           	Open  	;PE_20130101
 
 [PUMPS]
 ;ID              	Node1           	Node2           	Parameters
